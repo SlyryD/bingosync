@@ -44,7 +44,6 @@ bingoList[4] = [
 { name: "5 Magic Beans", types: ["Beans"] },
 { name: "Defeat Bongo-Bongo", types: ["BeatShadow"] },
 { name: "Defeat Queen Gohma", types: ["BeatDeku"] },
-{ name: "Ganon's Castle Boss Key", types: [] },
 { name: "Giant's Knife", types: ["SoloSword"] },
 { name: "3 Maps", types: ["Maps"] },
 { name: "3 Tunics", types: ["Tunics"] },
@@ -298,7 +297,7 @@ bingoList[22] = [
 { name: "Defeat Meg (Purple Poe)", types: ["ContentForest"] },
 { name: "Open All 5 Small Key Chests in Spirit Temple", types: ["ContentSpirit"] },
 { name: "Light Arrows", types: ["ArrowsLight","BeatSpirit","BeatShadow"] },
-{ name: "Beat 5 Dungeons", types: ["BeatDeku","BeatDC","BeatForest","BeatWater","BeatShadow"] },
+{ name: "Beat 5 Dungeons", types: ["BeatDeku","BeatDC","BeatJabu","BeatForest","BeatFire","BeatWater","BeatShadow","BeatSpirit"] },
 { name: "Obtain All 3 Spiritual Stones", types: ["BeatDeku","BeatDC","BeatJabu"] },
 ];
 
@@ -328,6 +327,6 @@ bingoList[25] = [
 { name: "Both Rusty Switches in Spirit Temple", types: ["ContentSpirit","Hammer"] },
 { name: "All 5 Skulltulas in Water Temple", types: ["SkullWater"] },
 { name: "30 Different Skulltulas", types: ["SkullCount"] },
-{ name: "6 Zora area HP", types: ["HPZora"] },
+{ name: "6 Zora area HPs", types: ["HPZora"] },
 { name: "Defeat Ganondorf", types: ["ArrowsLight","ContentForest"] },
 ];
